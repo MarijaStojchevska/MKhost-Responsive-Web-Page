@@ -1,0 +1,110 @@
+.wrapper {
+	margin-left: 27px;
+}
+.navbar-default {
+	padding-top: 19px;
+	margin-bottom: 0px;
+}
+.img {
+	width: 250px;
+	height: 90px;
+	margin-top: -14px;
+}
+.navbar-brand {
+	padding: 0px;
+}
+.navbar-default .navbar-nav > li > a {
+	color: rgb(51,51,51);
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: rgb(27,117,188);
+}
+.icons {
+	margin-top: 7px;
+	padding-bottom: 20px;
+	margin-left: 11px;
+}
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+	font-size: 22px;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: white;
+	font-size: 22px;
+	background-color: rgb(42,42,42);
+}
+
+.navbar-toggle {
+	margin-top: 5px;
+}
+.search {
+	font-size: 20px;
+}
+.inputSearch {
+	height: 34px;
+}
+.group {
+	padding-top: 7px;
+}
+.cont {
+	padding-top: 50px;
+}
+.register {
+	font-size: 35px;
+}
+.forms {
+	height: 48px;
+	font-size: 16px;
+}
+hr {
+	border-top: 2px solid #eee;
+}
+
+thead  th {
+	text-align: center;
+}
+
+.table > tbody > tr > td {
+	text-align: justify;
+}
+.mouse:hover {
+	cursor: pointer;
+	cursor: hand;
+}
+.form-control:hover {
+	cursor: pointer;
+	cursor: hand;
+}
+
+.list {
+	font-size: 26px;
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 27px;
+}
+
+footer .social {
+	margin-right: 10px;
+	font-size: 20px;
+}
+
+footer .copyright {
+	display: block;
+	margin-top: 10px;
+	font-size: 0.8em;
+}
+.well {
+	margin-top: 3pc;
+}
+.tabela {
+	padding-top: 25px;
+}
+.table-striped > tbody > tr > td {
+	text-align: center;
+	vertical-align: middle;
+}
+.red{
+	padding-bottom: 50px;
+}
