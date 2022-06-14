@@ -10,7 +10,7 @@
   
 
 
-<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173613806-040fab83-3977-4e6e-b74c-f426cfe2efc2.png"> </div><div align="center"><i>Figure 1: A responsive HTML landing page. </i></div>
+<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173613806-040fab83-3977-4e6e-b74c-f426cfe2efc2.png"> </div><div align="center"><i>Figure 1: A responsive weg page for MKhost - a macedonian hosting company. </i></div>
 
 
 
